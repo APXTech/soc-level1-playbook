@@ -65,3 +65,9 @@ It includes incident response guides, log analysis techniques, escalation workfl
 To document structured SOC Level 1 operations and improve incident response efficiency using practical, real-world security workflows.
 
 ---
+
+## 📌 Real-World Context
+
+This repository is built from practical SOC Level 1 exposure in an MSSP environment, focusing on real incident handling, firewall analysis, SIEM monitoring, and enterprise security operations.
+
+It reflects hands-on understanding of security workflows used in production environments.
